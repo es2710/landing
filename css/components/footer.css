@@ -1,0 +1,26 @@
+footer {
+  background-color: #2C2B2B;
+  text-align: center;
+  padding: 60px;
+  color: #6B6C6C;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+.social-icon {
+  font-size: 32px;
+  color: #6AD58B;
+}
+
+.social-icon:hover {
+  color: white;
+}

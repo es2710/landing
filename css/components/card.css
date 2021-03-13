@@ -1,0 +1,38 @@
+
+
+.card-white {
+  width: 200px;
+  padding: 20px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230 230 230);
+  text-align: center;
+  border: 1px solid rgb(230,230,230);
+}
+
+.card-white img{
+  height: 100px;
+}
+
+.card-white p {
+  opacity: 0.4;
+  margin: 0p;
+  font-size: 16px;
+}
+
+.card-white h1 {
+  font-size: 16px;
+  margin: 20px;
+}
+
+.how-it-works-cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.how-it-works {
+  text-align: center;
+  font-size: 12px;
+  width: 900px;
+  margin: auto;
+}
